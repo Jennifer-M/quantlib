@@ -1,0 +1,1169 @@
+﻿  averagebmacoupon.cpp
+  capflooredcoupon.cpp
+  capflooredinflationcoupon.cpp
+  cashflows.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  cashflowvectors.cpp
+  cmscoupon.cpp
+  conundrumpricer.cpp
+  coupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  couponpricer.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  cpicoupon.cpp
+  cpicouponpricer.cpp
+  digitalcmscoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  digitalcoupon.cpp
+  digitaliborcoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  dividend.cpp
+  duration.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fixedratecoupon.cpp
+  floatingratecoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  iborcoupon.cpp
+  indexedcashflow.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  inflationcoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  inflationcouponpricer.cpp
+  lineartsrpricer.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  overnightindexedcoupon.cpp
+  rangeaccrual.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  replication.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  simplecashflow.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  timebasket.cpp
+  yoyinflationcoupon.cpp
+  africa.cpp
+  america.cpp
+  asia.cpp
+  crypto.cpp
+  europe.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  exchangeratemanager.cpp
+  oceania.cpp
+  amortizingcmsratebond.cpp
+  amortizingfixedratebond.cpp
+  amortizingfloatingratebond.cpp
+  arithmeticaverageois.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  arithmeticoisratehelper.cpp
+  averageoiscouponpricer.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  makearithmeticaverageois.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticdoublebarrierbinaryengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticdoublebarrierengine.cpp
+  discretizeddoublebarrieroption.cpp
+  doublebarrieroption.cpp
+  doublebarriertype.cpp
+  perturbativebarrieroptionengine.cpp
+  quantodoublebarrieroption.cpp
+  vannavolgabarrierengine.cpp
+  wulinyongdoublebarrierengine.cpp
+  swaptioncfs.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  tenoroptionletvts.cpp
+  tenorswaptionvts.cpp
+  blackcallablebondengine.cpp
+  callablebond.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  callablebondconstantvol.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  callablebondvolstructure.cpp
+  discretizedcallablefixedratebond.cpp
+  treecallablebondengine.cpp
+  catbond.cpp
+  catrisk.cpp
+  montecarlocatbondengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  riskynotional.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  commodity.cpp
+  commoditycashflow.cpp
+  commoditycurve.cpp
+  commodityindex.cpp
+  commoditypricinghelpers.cpp
+  commoditysettings.cpp
+  commoditytype.cpp
+  commodityunitcost.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  dateinterval.cpp
+  energybasisswap.cpp
+  energycommodity.cpp
+  energyfuture.cpp
+  energyswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  energyvanillaswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  paymentterm.cpp
+  quantity.cpp
+  unitofmeasure.cpp
+  unitofmeasureconversion.cpp
+  unitofmeasureconversionmanager.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  convertiblebond.cpp
+  discretizedconvertible.cpp
+  cmsspreadcoupon.cpp
+  digitalcmsspreadcoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lognormalcmsspreadpricer.cpp
+  proxyibor.cpp
+  quantocouponpricer.cpp
+  strippedcapflooredcoupon.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  subperiodcoupons.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  swapspreadindex.cpp
+  basecorrelationstructure.cpp
+  basket.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackcdsoptionengine.cpp
+  cdo.cpp
+  cdsoption.cpp
+  correlationstructure.cpp
+  defaultevent.cpp
+  defaultprobabilitykey.cpp
+  defaulttype.cpp
+  distribution.cpp
+  gaussianlhplossmodel.cpp
+  integralcdoengine.cpp
+  integralntdengine.cpp
+  issuer.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lossdistribution.cpp
+  midpointcdoengine.cpp
+  nthtodefault.cpp
+  onefactorcopula.cpp
+  onefactorgaussiancopula.cpp
+  onefactorstudentcopula.cpp
+  pool.cpp
+  randomdefaultmodel.cpp
+  recoveryratemodel.cpp
+  recoveryratequote.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  riskyassetswap.cpp
+  riskyassetswapoption.cpp
+  riskybond.cpp
+  syntheticcdo.cpp
+  analyticamericanmargrabeengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticcomplexchooserengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticcompoundoptionengine.cpp
+  analyticeuropeanmargrabeengine.cpp
+  analyticholderextensibleoptionengine.cpp
+  analyticpartialtimebarrieroptionengine.cpp
+  analyticpdfhestonengine.cpp
+  analyticsimplechooserengine.cpp
+  analytictwoassetbarrierengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analytictwoassetcorrelationengine.cpp
+  analyticwriterextensibleoptionengine.cpp
+  complexchooseroption.cpp
+  compoundoption.cpp
+  continuousarithmeticasianlevyengine.cpp
+  continuousarithmeticasianvecerengine.cpp
+  everestoption.cpp
+  himalayaoption.cpp
+  holderextensibleoption.cpp
+  kirkspreadoptionengine.cpp
+  margrabeoption.cpp
+  mceverestengine.cpp
+  mchimalayaengine.cpp
+  mcpagodaengine.cpp
+  pagodaoption.cpp
+  partialtimebarrieroption.cpp
+  simplechooseroption.cpp
+  twoassetbarrieroption.cpp
+  twoassetcorrelationoption.cpp
+  writerextensibleoption.cpp
+  dynprogvppintrinsicvalueengine.cpp
+  fdextoujumpvanillaengine.cpp
+  fdhestondoublebarrierengine.cpp
+  fdklugeextouspreadengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmblackscholesfwdop.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmdupire1dop.cpp
+  fdmextendedornsteinuhlenbeckop.cpp
+  fdmextoujumpop.cpp
+  fdmextoujumpsolver.cpp
+  fdmhestonfwdop.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmhestongreensfct.cpp
+  fdmklugeextouop.cpp
+  fdmsquarerootfwdop.cpp
+  fdmvppstartlimitstepcondition.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmvppstepcondition.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmvppstepconditionfactory.cpp
+  fdmzabrop.cpp
+  fdornsteinuhlenbeckvanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdsimpleextoujumpswingengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdsimpleextoustorageengine.cpp
+  fdsimpleklugeextouvppengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  glued1dmesher.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  vanillavppoption.cpp
+  overnightindexfuture.cpp
+  overnightindexfutureratehelper.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackdeltacalculator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  deltavolquote.cpp
+  cpicapfloorengines.cpp
+  cpicapfloortermpricesurface.cpp
+  yoycapfloortermpricesurface.cpp
+  yoyoptionlethelpers.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  extendedbinomialtree.cpp
+  convolvedstudentt.cpp
+  expm.cpp
+  fireflyalgorithm.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gaussiancopulapolicy.cpp
+  gaussiannoncentralchisquaredpolynomial.cpp
+  multidimintegrator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  multidimquadrature.cpp
+  particleswarmoptimization.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  piecewiseintegral.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  tcopulapolicy.cpp
+  zigguratrng.cpp
+  adaptedpathpayoff.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  longstaffschwartzmultipathpricer.cpp
+  mcpathbasketengine.cpp
+  pathmultiassetoption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  hestonslvfdmmodel.cpp
+  hestonslvmcmodel.cpp
+  normalclvmodel.cpp
+  squarerootclvmodel.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  extendedblackscholesprocess.cpp
+  extendedornsteinuhlenbeckprocess.cpp
+  extouwithjumpsprocess.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gemanroncoroniprocess.cpp
+  hestonslvprocess.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  klugeextouprocess.cpp
+  vegastressedblackscholesprocess.cpp
+  creditriskplus.cpp
+  sensitivityanalysis.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  generalizedhullwhite.cpp
+  generalizedornsteinuhlenbeckprocess.cpp
+  haganirregularswaptionengine.cpp
+  irregularswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  irregularswaption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticvariancegammaengine.cpp
+  fftengine.cpp
+  fftvanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fftvariancegammaengine.cpp
+  variancegammamodel.cpp
+  variancegammaprocess.cpp
+  integralhestonvarianceoptionengine.cpp
+  varianceoption.cpp
+  abcdatmvolcurve.cpp
+  blackatmvolcurve.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackvolsurface.cpp
+  equityfxvolsurface.cpp
+  extendedblackvariancecurve.cpp
+  extendedblackvariancesurface.cpp
+  interestratevolsurface.cpp
+  noarbsabr.cpp
+  noarbsabrabsprobs.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  noarbsabrinterpolatedsmilesection.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  noarbsabrsmilesection.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sabrvolsurface.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sviinterpolatedsmilesection.cpp
+  svismilesection.cpp
+  volcube.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  zabr.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  bmaindex.cpp
+  bibor.cpp
+  eonia.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  euribor.cpp
+  eurlibor.cpp
+  fedfunds.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  libor.cpp
+  shibor.cpp
+  sofr.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sonia.cpp
+  iborindex.cpp
+  indexmanager.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  inflationindex.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  interestrateindex.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  region.cpp
+  chfliborswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  euriborswap.cpp
+  eurliborswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gbpliborswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  jpyliborswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  usdliborswap.cpp
+  swapindex.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  asianoption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  assetswap.cpp
+  averagetype.cpp
+  barrieroption.cpp
+  barriertype.cpp
+  basketoption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  bmaswap.cpp
+  bond.cpp
+  btp.cpp
+  cmsratebond.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  cpibond.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fixedratebond.cpp
+  floatingratebond.cpp
+  zerocouponbond.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  capfloor.cpp
+  claim.cpp
+  cliquetoption.cpp
+  compositeinstrument.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  cpicapfloor.cpp
+  cpiswap.cpp
+  creditdefaultswap.cpp
+  dividendbarrieroption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  dividendvanillaoption.cpp
+  europeanoption.cpp
+  fixedratebondforward.cpp
+  floatfloatswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  floatfloatswaption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  forward.cpp
+  forwardrateagreement.cpp
+  forwardvanillaoption.cpp
+  futures.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  impliedvolatility.cpp
+  inflationcapfloor.cpp
+  lookbackoption.cpp
+  makecapfloor.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  makecds.cpp
+  makecms.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  makeois.cpp
+  makeswaption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  makevanillaswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  makeyoyinflationcapfloor.cpp
+  multiassetoption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  nonstandardswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  nonstandardswaption.cpp
+  oneassetoption.cpp
+  overnightindexedswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  payoffs.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  quantobarrieroption.cpp
+  quantoforwardvanillaoption.cpp
+  quantovanillaoption.cpp
+  stickyratchet.cpp
+  stock.cpp
+  swap.cpp
+  swaption.cpp
+  vanillaoption.cpp
+  vanillaswap.cpp
+  vanillaswingoption.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  varianceswap.cpp
+  yearonyearinflationswap.cpp
+  zerocouponinflationswap.cpp
+  lfmcovarparam.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lfmcovarproxy.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lfmhullwhiteparam.cpp
+  lfmprocess.cpp
+  lfmswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  liborforwardmodel.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lmcorrmodel.cpp
+  lmexpcorrmodel.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lmextlinexpvolmodel.cpp
+  lmfixedvolmodel.cpp
+  lmlinexpcorrmodel.cpp
+  lmlinexpvolmodel.cpp
+  lmvolmodel.cpp
+  abcdmathfunction.cpp
+  bernsteinpolynomial.cpp
+  beta.cpp
+  bspline.cpp
+  alimikhailhaqcopula.cpp
+  claytoncopula.cpp
+  farliegumbelmorgensterncopula.cpp
+  frankcopula.cpp
+  galamboscopula.cpp
+  gaussiancopula.cpp
+  gumbelcopula.cpp
+  huslerreisscopula.cpp
+  independentcopula.cpp
+  marshallolkincopula.cpp
+  maxcopula.cpp
+  mincopula.cpp
+  plackettcopula.cpp
+  bivariatenormaldistribution.cpp
+  bivariatestudenttdistribution.cpp
+  chisquaredistribution.cpp
+  gammadistribution.cpp
+  normaldistribution.cpp
+  studenttdistribution.cpp
+  errorfunction.cpp
+  factorial.cpp
+  incompletegamma.cpp
+  discreteintegrals.cpp
+  filonintegral.cpp
+  gaussianorthogonalpolynomial.cpp
+  gaussianquadratures.cpp
+  gausslobattointegral.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  integral.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  kronrodintegral.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  segmentintegral.cpp
+  matrix.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  basisincompleteordered.cpp
+  bicgstab.cpp
+  choleskydecomposition.cpp
+  factorreduction.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  getcovariance.cpp
+  gmres.cpp
+  pseudosqrt.cpp
+  qrdecomposition.cpp
+  sparseilupreconditioner.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  svd.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  symmetricschurdecomposition.cpp
+  tapcorrelations.cpp
+  tqreigendecomposition.cpp
+  modifiedbessel.cpp
+  armijo.cpp
+  bfgs.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  conjugategradient.cpp
+  constraint.cpp
+  differentialevolution.cpp
+  endcriteria.cpp
+  goldstein.cpp
+  leastsquare.cpp
+  levenbergmarquardt.cpp
+  linesearch.cpp
+  linesearchbasedmethod.cpp
+  lmdif.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  projectedcostfunction.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  projection.cpp
+  simplex.cpp
+  spherecylinder.cpp
+  steepestdescent.cpp
+  pascaltriangle.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  polynomialmathfunction.cpp
+  primenumbers.cpp
+  quadratic.cpp
+  faurersg.cpp
+  haltonrsg.cpp
+  knuthuniformrng.cpp
+  latticersg.cpp
+  latticerules.cpp
+  lecuyeruniformrng.cpp
+  mt19937uniformrng.cpp
+  primitivepolynomials.cpp
+  seedgenerator.cpp
+  sobolbrownianbridgersg.cpp
+  sobolrsg.cpp
+  stochasticcollocationinvcdf.cpp
+  richardsonextrapolation.cpp
+  rounding.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sampledcurve.cpp
+  discrepancystatistics.cpp
+  generalstatistics.cpp
+  histogram.cpp
+  incrementalstatistics.cpp
+  boundarycondition.cpp
+  bsmoperator.cpp
+  concentrating1dmesher.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  exponentialjump1dmesher.cpp
+  fdmblackscholesmesher.cpp
+  fdmblackscholesmultistrikemesher.cpp
+  fdmcev1dmesher.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmhestonvariancemesher.cpp
+  fdmmeshercomposite.cpp
+  fdmsimpleprocess1dmesher.cpp
+  uniformgridmesher.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdm2dblackscholesop.cpp
+  fdmbatesop.cpp
+  fdmblackscholesop.cpp
+  fdmcevop.cpp
+  fdmg2op.cpp
+  fdmhestonhullwhiteop.cpp
+  fdmhestonop.cpp
+  fdmhullwhiteop.cpp
+  fdmlinearoplayout.cpp
+  fdmlocalvolfwdop.cpp
+  fdmornsteinuhlenbeckop.cpp
+  fdmsabrop.cpp
+  firstderivativeop.cpp
+  ninepointlinearop.cpp
+  nthorderderivativeop.cpp
+  numericaldifferentiation.cpp
+  secondderivativeop.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  secondordermixedderivativeop.cpp
+  triplebandlinearop.cpp
+  craigsneydscheme.cpp
+  cranknicolsonscheme.cpp
+  douglasscheme.cpp
+  expliciteulerscheme.cpp
+  hundsdorferscheme.cpp
+  impliciteulerscheme.cpp
+  methodoflinesscheme.cpp
+  modifiedcraigsneydscheme.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdm1dimsolver.cpp
+  fdm2dblackscholessolver.cpp
+  fdm2dimsolver.cpp
+  fdm3dimsolver.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmbackwardsolver.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmbatessolver.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmblackscholessolver.cpp
+  fdmg2solver.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmhestonhullwhitesolver.cpp
+  fdmhestonsolver.cpp
+  fdmhullwhitesolver.cpp
+  fdmsimple2dbssolver.cpp
+  fdmamericanstepcondition.cpp
+  fdmarithmeticaveragecondition.cpp
+  fdmbermudanstepcondition.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmsimplestoragecondition.cpp
+  fdmsimpleswingcondition.cpp
+  fdmsnapshotcondition.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmstepconditioncomposite.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  tridiagonaloperator.cpp
+  bsmrndcalculator.cpp
+  cevrndcalculator.cpp
+  fdmaffinemodelswapinnervalue.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmaffinemodeltermstructure.cpp
+  fdmdirichletboundary.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmdiscountdirichletboundary.cpp
+  fdmdividendhandler.cpp
+  fdmindicesonboundary.cpp
+  fdminnervaluecalculator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdmmesherintegral.cpp
+  fdmquantohelper.cpp
+  fdmtimedepdirichletboundary.cpp
+  gbsmrndcalculator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  hestonrndcalculator.cpp
+  localvolrndcalculator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  riskneutraldensitycalculator.cpp
+  squarerootprocessrndcalculator.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  binomialtree.cpp
+  trinomialtree.cpp
+  brownianbridge.cpp
+  genericlsregression.cpp
+  lsmbasissystem.cpp
+  parametricexercise.cpp
+  calibrationhelper.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  batesmodel.cpp
+  gjrgarchmodel.cpp
+  hestonmodel.cpp
+  hestonmodelhelper.cpp
+  piecewisetimedependenthestonmodel.cpp
+  accountingengine.cpp
+  mtbrowniangenerator.cpp
+  sobolbrowniangenerator.cpp
+  bermudanswaptionexercisevalue.cpp
+  collectnodedata.cpp
+  lsstrategy.cpp
+  nothingexercisevalue.cpp
+  parametricexerciseadapter.cpp
+  swapbasissystem.cpp
+  swapforwardbasissystem.cpp
+  swapratetrigger.cpp
+  triggeredswapexercise.cpp
+  upperboundengine.cpp
+  cotswapfromfwdcorrelation.cpp
+  expcorrelations.cpp
+  timehomogeneousforwardcorrelation.cpp
+  curvestate.cpp
+  cmswapcurvestate.cpp
+  coterminalswapcurvestate.cpp
+  lmmcurvestate.cpp
+  discounter.cpp
+  cmsmmdriftcalculator.cpp
+  lmmdriftcalculator.cpp
+  lmmnormaldriftcalculator.cpp
+  smmdriftcalculator.cpp
+  evolutiondescription.cpp
+  lognormalcmswapratepc.cpp
+  lognormalcotswapratepc.cpp
+  lognormalfwdrateballand.cpp
+  lognormalfwdrateeuler.cpp
+  lognormalfwdrateeulerconstrained.cpp
+  lognormalfwdrateiballand.cpp
+  lognormalfwdrateipc.cpp
+  lognormalfwdratepc.cpp
+  marketmodelvolprocess.cpp
+  normalfwdratepc.cpp
+  svddfwdratepc.cpp
+  squarerootandersen.cpp
+  forwardforwardmappings.cpp
+  historicalratesanalysis.cpp
+  marketmodel.cpp
+  marketmodeldifferences.cpp
+  abcdvol.cpp
+  alphafinder.cpp
+  alphaformconcrete.cpp
+  capletcoterminalalphacalibration.cpp
+  capletcoterminalmaxhomogeneity.cpp
+  capletcoterminalperiodic.cpp
+  capletcoterminalswaptioncalibration.cpp
+  cotswaptofwdadapter.cpp
+  ctsmmcapletcalibration.cpp
+  flatvol.cpp
+  fwdperiodadapter.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fwdtocotswapadapter.cpp
+  piecewiseconstantabcdvariance.cpp
+  piecewiseconstantvariance.cpp
+  pseudorootfacade.cpp
+  volatilityinterpolationspecifier.cpp
+  volatilityinterpolationspecifierabcd.cpp
+  pathwiseaccountingengine.cpp
+  pathwisediscounter.cpp
+  bumpinstrumentjacobian.cpp
+  ratepseudorootjacobian.cpp
+  swaptionpseudojacobian.cpp
+  vegabumpcluster.cpp
+  compositeproduct.cpp
+  multiproductcomposite.cpp
+  multiproductmultistep.cpp
+  multiproductonestep.cpp
+  callspecifiedmultiproduct.cpp
+  cashrebate.cpp
+  exerciseadapter.cpp
+  multistepcoinitialswaps.cpp
+  multistepcoterminalswaps.cpp
+  multistepcoterminalswaptions.cpp
+  multistepforwards.cpp
+  multistepinversefloater.cpp
+  multistepnothing.cpp
+  multistepoptionlets.cpp
+  multisteppathwisewrapper.cpp
+  multistepperiodcapletswaptions.cpp
+  multistepratchet.cpp
+  multistepswap.cpp
+  multistepswaption.cpp
+  multisteptarn.cpp
+  onestepcoinitialswaps.cpp
+  onestepcoterminalswaps.cpp
+  onestepforwards.cpp
+  onestepoptionlets.cpp
+  pathwiseproductcallspecified.cpp
+  pathwiseproductcaplet.cpp
+  pathwiseproductcashrebate.cpp
+  pathwiseproductinversefloater.cpp
+  pathwiseproductswap.cpp
+  pathwiseproductswaption.cpp
+  singleproductcomposite.cpp
+  proxygreekengine.cpp
+  swapforwardmappings.cpp
+  utilities.cpp
+  model.cpp
+  caphelper.cpp
+  swaptionhelper.cpp
+  onefactormodel.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackkarasinski.cpp
+  coxingersollross.cpp
+  extendedcoxingersollross.cpp
+  gaussian1dmodel.cpp
+  gsr.cpp
+  hullwhite.cpp
+  markovfunctional.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  vasicek.cpp
+  twofactormodel.cpp
+  g2.cpp
+  constantestimator.cpp
+  garch.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  observable.cpp
+  americanpayoffatexpiry.cpp
+  americanpayoffathit.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analytic_cont_geom_av_price.cpp
+  analytic_discr_geom_av_price.cpp
+  analytic_discr_geom_av_strike.cpp
+  fdblackscholesasianengine.cpp
+  mc_discr_arith_av_price.cpp
+  mc_discr_arith_av_strike.cpp
+  mc_discr_geom_av_price.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticbarrierengine.cpp
+  analyticbinarybarrierengine.cpp
+  discretizedbarrieroption.cpp
+  fdblackscholesbarrierengine.cpp
+  fdblackscholesrebateengine.cpp
+  fdhestonbarrierengine.cpp
+  fdhestonrebateengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  mcbarrierengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fd2dblackscholesvanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  kirkengine.cpp
+  mcamericanbasketengine.cpp
+  mceuropeanbasketengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  stulzengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackcalculator.cpp
+  blackformula.cpp
+  blackscholescalculator.cpp
+  bondfunctions.cpp
+  discountingbondengine.cpp
+  analyticcapfloorengine.cpp
+  bacheliercapfloorengine.cpp
+  blackcapfloorengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  discretizedcapfloor.cpp
+  gaussian1dcapfloorengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  mchullwhiteengine.cpp
+  treecapfloorengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticcliquetengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticperformanceengine.cpp
+  mcperformanceengine.cpp
+  integralcdsengine.cpp
+  isdacdsengine.cpp
+  midpointcdsengine.cpp
+  greeks.cpp
+  inflationcapfloorengines.cpp
+  analyticcontinuousfixedlookback.cpp
+  analyticcontinuousfloatinglookback.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticcontinuouspartialfixedlookback.cpp
+  analyticcontinuouspartialfloatinglookback.cpp
+  cvaswapengine.cpp
+  discountingswapengine.cpp
+  discretizedswap.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  treeswapengine.cpp
+  basketgeneratingengine.cpp
+  blackswaptionengine.cpp
+  discretizedswaption.cpp
+  fdg2swaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdhullwhiteswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gaussian1dfloatfloatswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gaussian1djamshidianswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gaussian1dnonstandardswaptionengine.cpp
+  gaussian1dswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  jamshidianswaptionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  treeswaptionengine.cpp
+  analyticbsmhullwhiteengine.cpp
+  analyticcevengine.cpp
+  analyticdigitalamericanengine.cpp
+  analyticdividendeuropeanengine.cpp
+  analyticeuropeanengine.cpp
+  analyticgjrgarchengine.cpp
+  analytich1hwengine.cpp
+  analytichestonengine.cpp
+  analytichestonhullwhiteengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  analyticptdhestonengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  baroneadesiwhaleyengine.cpp
+  batesengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  bjerksundstenslandengine.cpp
+  coshestonengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  discretizedvanillaoption.cpp
+  fdbatesvanillaengine.cpp
+  fdblackscholesvanillaengine.cpp
+  fdcevvanillaengine.cpp
+  fdhestonhullwhitevanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdhestonvanillaengine.cpp
+  fdsabrvanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  fdsimplebsswingengine.cpp
+  fdvanillaengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  hestonexpansionengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  integralengine.cpp
+  jumpdiffusionengine.cpp
+  juquadraticengine.cpp
+  mcamericanengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  mcdigitalengine.cpp
+  mchestonhullwhiteengine.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  batesprocess.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  blackscholesprocess.cpp
+  endeulerdiscretization.cpp
+  eulerdiscretization.cpp
+  forwardmeasureprocess.cpp
+  g2process.cpp
+  geometricbrownianprocess.cpp
+  gjrgarchprocess.cpp
+  gsrprocess.cpp
+  gsrprocesscore.cpp
+  hestonprocess.cpp
+  hullwhiteprocess.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  hybridhestonhullwhiteprocess.cpp
+  jointstochasticprocess.cpp
+  merton76process.cpp
+  mfstateprocess.cpp
+  ornsteinuhlenbeckprocess.cpp
+  squarerootprocess.cpp
+  stochasticprocessarray.cpp
+  eurodollarfuturesquote.cpp
+  forwardswapquote.cpp
+  forwardvaluequote.cpp
+  futuresconvadjustmentquote.cpp
+  impliedstddevquote.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lastfixingquote.cpp
+  defaultdensitystructure.cpp
+  defaultprobabilityhelpers.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  flathazardrate.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  hazardratestructure.cpp
+  survivalprobabilitystructure.cpp
+  defaulttermstructure.cpp
+  inflationhelpers.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  seasonality.cpp
+  inflationtermstructure.cpp
+  abcd.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  abcdcalibration.cpp
+  atmadjustedsmilesection.cpp
+  atmsmilesection.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  capfloortermvolatilitystructure.cpp
+  capfloortermvolcurve.cpp
+  capfloortermvolsurface.cpp
+  constantcapfloortermvol.cpp
+  andreasenhugelocalvoladapter.cpp
+  andreasenhugevolatilityadapter.cpp
+  andreasenhugevolatilityinterpl.cpp
+  blackvariancecurve.cpp
+  blackvariancesurface.cpp
+  blackvoltermstructure.cpp
+  fixedlocalvolsurface.cpp
+  gridmodellocalvolsurface.cpp
+  hestonblackvolsurface.cpp
+  localvolsurface.cpp
+  localvoltermstructure.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  flatsmilesection.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  gaussian1dsmilesection.cpp
+  constantcpivolatility.cpp
+  cpivolatilitystructure.cpp
+  yoyinflationoptionletvolatilitystructure.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  kahalesmilesection.cpp
+  constantoptionletvol.cpp
+  optionletstripper.cpp
+  optionletstripper1.cpp
+  optionletstripper2.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  optionletvolatilitystructure.cpp
+  spreadedoptionletvol.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  strippedoptionlet.cpp
+  strippedoptionletadapter.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sabr.cpp
+  sabrinterpolatedsmilesection.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  sabrsmilesection.cpp
+  smilesection.cpp
+  smilesectionutils.cpp
+  spreadedsmilesection.cpp
+  cmsmarket.cpp
+  cmsmarketcalibration.cpp
+  gaussian1dswaptionvolatility.cpp
+  spreadedswaptionvol.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  swaptionconstantvol.cpp
+  swaptionvolcube.cpp
+  swaptionvolcube2.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  swaptionvoldiscrete.cpp
+  swaptionvolmatrix.cpp
+  swaptionvolstructure.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  voltermstructure.cpp
+  bondhelpers.cpp
+  fittedbonddiscountcurve.cpp
+  flatforward.cpp
+  forwardstructure.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  nonlinearfittingmethods.cpp
+  oisratehelper.cpp
+  ratehelpers.cpp
+  zeroyieldstructure.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  yieldtermstructure.cpp
+  asx.cpp
+  businessdayconvention.cpp
+  calendar.cpp
+  argentina.cpp
+  australia.cpp
+  austria.cpp
+  bespokecalendar.cpp
+  botswana.cpp
+  brazil.cpp
+  canada.cpp
+  china.cpp
+  czechrepublic.cpp
+  denmark.cpp
+  finland.cpp
+  france.cpp
+  germany.cpp
+  hongkong.cpp
+  hungary.cpp
+  iceland.cpp
+  india.cpp
+  indonesia.cpp
+  israel.cpp
+  italy.cpp
+  japan.cpp
+  jointcalendar.cpp
+  mexico.cpp
+  newzealand.cpp
+  norway.cpp
+  poland.cpp
+  romania.cpp
+  russia.cpp
+  saudiarabia.cpp
+  singapore.cpp
+  slovakia.cpp
+  southafrica.cpp
+  southkorea.cpp
+  sweden.cpp
+  switzerland.cpp
+  taiwan.cpp
+  target.cpp
+  thailand.cpp
+  turkey.cpp
+  ukraine.cpp
+  unitedkingdom.cpp
+  unitedstates.cpp
+  weekendsonly.cpp
+  date.cpp
+  dategenerationrule.cpp
+  actual365fixed.cpp
+  actualactual.cpp
+  business252.cpp
+  simpledaycounter.cpp
+  thirty360.cpp
+  ecb.cpp
+  frequency.cpp
+  imm.cpp
+  period.cpp
+  schedule.cpp
+  timeunit.cpp
+  weekday.cpp
+  dataformatters.cpp
+  dataparsers.cpp
+  tracing.cpp
+  cashflow.cpp
+  currency.cpp
+  discretizedasset.cpp
+  errors.cpp
+  event.cpp
+  exchangerate.cpp
+  exercise.cpp
+  index.cpp
+  interestrate.cpp
+  money.cpp
+  position.cpp
+  prices.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  rebatedexercise.cpp
+  settings.cpp
+  stochasticprocess.cpp
+C:\local\boost_1_73_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  termstructure.cpp
+  timegrid.cpp
+  version.cpp
+  Make build directory
+  QuantLib.vcxproj -> C:\Users\Jennifer Ma\Documents\2019-2020\2020-winter\internship\QuantLib-1.18\QuantLib-1.18\.\lib\QuantLib-x64-mt-gd.lib

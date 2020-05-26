@@ -1,0 +1,7 @@
+*.opendb
+*.opensdf
+*.lib
+*.db
+lib/
+.vs/
+*.pdb
